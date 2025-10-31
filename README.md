@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hello, world! My name is Christopher Bueker.
 
-<!--
-**BornAgainCoder7/bornagaincoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I serve as an SEO stragegist, web developer, business consultant, and founder of [SunPathSEO](https://www.sunpathseo.com).
 
-Here are some ideas to get you started:
+🔧 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Improving my skills in open source development
+- Contributing to community-focused projects like the [Code Club Guide](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
+- Building clean, responsive websites (see [Responsive Nav Bar with Slide Effect](https://github.com/BornAgainCoder7/Responsive-Navigation-Bar-With-Slide-Effect))
+
+🌟 Highlighted Contribution
+
+> ✅ [Pull Request Accepted!](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
+
+I contributed to the official Code Club Guide by fixing a formatting issue and making the guide more consistent and clear.
+
+💼 For HR Managers (and anyone else interested)
+
+If you are reviewing my profile for hiring, collaboration, or networking: thank you.
+
+Here are some quick links:
+
+- 🔹 [My SEO Website] coming soon
+- 🔹 [Finished Seed](https://www.christopherbueker.com)
+- 🔹 [Accepted Pull Request](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
+- 🔹 [GitHub Contributions](https://github.com/BornAgainCoder7?tab=repositories)
+- 🔹 [LinkedIn (https://www.linkedin.com/in/christopherbueker)]
+
