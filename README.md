@@ -17,6 +17,6 @@ Here are some quick links:
 - 🔹 [My SEO Website] coming soon
 - 🔹 [Proof of Concept Finished Seed - ChristopherBueker.com](https://www.christopherbueker.com)
 - 🔹 [Accepted Pull Request - Date change](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
-- 🔹 [GitHub Contributions](https://github.com/BornAgainCoder7?tab=repositories)
+- 🔹 [GitHub Contributions]((https://github.com/pulls?q=is%3Apr+author%3ABornAgainCoder7+archived%3Afalse+is%3Aclosed))
 - 🔹 [LinkedIn (https://www.linkedin.com/in/christopherbueker)]
 
