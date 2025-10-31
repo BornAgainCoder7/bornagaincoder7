@@ -15,7 +15,7 @@ If you are reviewing my profile for hiring, collaboration, or networking: thank 
 Here are some quick links:
 
 - 🔹 [My SEO Website] coming soon
-- 🔹 [Finished Seed - ChristopherBueker.com](https://www.christopherbueker.com)
+- 🔹 [Proof of Concept Finished Seed - ChristopherBueker.com](https://www.christopherbueker.com)
 - 🔹 [Accepted Pull Request - Date change](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
 - 🔹 [GitHub Contributions](https://github.com/BornAgainCoder7?tab=repositories)
 - 🔹 [LinkedIn (https://www.linkedin.com/in/christopherbueker)]
