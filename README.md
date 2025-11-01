@@ -11,7 +11,7 @@ If you're reviewing my profile for hiring, collaboration, or networking: thank y
 
 Here are some quick links:
 
-[SunPathSEO.com](https://www.sunpathseo.com) — SEO project homepage (coming soon)
+[SunPathSEO.com](https://www.sunpathseo.com) — SEO project homepage (coming soon) 
 [Proof of Concept: Finished Seed](https://www.christopherbueker.com)  
 [Accepted Pull Request: ISO 8601 Date Fix](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
 [My GitHub Contributions - List of Accepted Pull Requests](https://github.com/pulls?q=is%3Apr+author%3ABornAgainCoder7+archived%3Afalse+is%3Aclosed)
