@@ -1,6 +1,6 @@
 Hello, world! My name is Christopher Bueker.
 
-I am a developer and SEO strategist, and the founder of [SunPathSEO.com](https://www.sunpathseo.com).
+I am a web developer and SEO strategist, and the founder of [SunPathSEO.com](https://www.sunpathseo.com).
 
 Highlighted Contributions to Open Source:
 
