@@ -15,7 +15,7 @@ Here are some quick links:
 
 https://bornagaincoder7.github.io - from HTML & CSS scatch web page - personal development page
 
-(https://www.christopherbueker.com) Proof of Concept - Finished Seed 
+https://www.christopherbueker.com Proof of Concept - Finished Seed 
 
 [Accepted Pull Request: ISO 8601 Date Fix](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
 
