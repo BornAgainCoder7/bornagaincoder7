@@ -13,6 +13,8 @@ Here are some quick links:
 
 [SunPathSEO.com](https://www.sunpathseo.com) — SEO project homepage (coming soon) 
 
+https://bornagaincoder7.github.io
+
 [Proof of Concept: Finished Seed](https://www.christopherbueker.com)  
 
 [Accepted Pull Request: ISO 8601 Date Fix](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
