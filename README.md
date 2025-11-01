@@ -13,7 +13,7 @@ Here are some quick links:
 
 [SunPathSEO.com](https://www.sunpathseo.com) — SEO project homepage (coming soon) 
 
-https://bornagaincoder7.github.io
+https://bornagaincoder7.github.io - from HTML & CSS scatch web page - personal development page
 
 [Proof of Concept: Finished Seed](https://www.christopherbueker.com)  
 
