@@ -17,8 +17,6 @@ https://bornagaincoder7.github.io - from HTML & CSS scatch web page - personal d
 
 https://www.christopherbueker.com Proof of Concept - Finished Seed 
 
-[Accepted Pull Request: ISO 8601 Date Fix](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)
-
 [My GitHub Contributions - List of Accepted Pull Requests](https://github.com/pulls?q=is%3Apr+author%3ABornAgainCoder7+archived%3Afalse+is%3Aclosed)
 
 [Christopher Bueker's LinkedIn Profile](https://www.linkedin.com/in/christopherbueker/)
