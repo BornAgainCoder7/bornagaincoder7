@@ -1,8 +1,8 @@
-👋 Hello, world! My name is Christopher Bueker.
+Hello, world! My name is Christopher Bueker.
 
 I am a developer and SEO strategist, and the founder of [SunPathSEO.com](https://www.sunpathseo.com).
 
-🌟 Highlighted Contributions to Open Source:
+Highlighted Contributions to Open Source:
 
 ✔️ [Pull Request Accepted](https://github.com/SORTEE/start-your-codeclub-guide/pull/2)  
 I contributed to the official Code Club Guide by fixing a formatting issue and helping the guide follow ISO 8601 date standards for consistency and clarity.
