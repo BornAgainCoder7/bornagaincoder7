@@ -4,7 +4,7 @@ I am a web developer and SEO strategist, and the founder of SunPathSEO.
 
 Here are some quick links:
 
-https://bornagaincoder7.github.io - my personal web development page (personal home page). It is made from scratch in HTML & CSS.
+https://bornagaincoder7.github.io - my personal web development page (Personal Home Page). It is made from scratch in HTML & CSS.
 
 https://www.christopherbueker.com Proof of Concept - Finished Seed 
 
