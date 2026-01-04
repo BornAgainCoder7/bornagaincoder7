@@ -1,10 +1,12 @@
 Hello, world! My name is Christopher Bueker.
 
-I am a web developer and SEO strategist, and the founder of SunPathSEO.
+I am a technical SEO, cybersecurity, and web engineering consultant, and the founder of SunPath SEO.
+
+I focus on building, testing, and validating websites using first-principles engineering, modern SEO standards, and command-line tooling. I like working close to the system, where truth is observable and measurable.
 
 Here are some quick links:
 
-https://bornagaincoder7.github.io - my personal web development page (Personal Home Page). It is made from scratch in HTML & CSS.
+https://bornagaincoder7.github.io - my personal web page (Personal Home Page). I made it from scratch in HTML & CSS.
 
 https://www.christopherbueker.com Proof of Concept - Finished Seed 
 
