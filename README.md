@@ -8,7 +8,7 @@ These are my most relevant repositories for blue team, detection engineering, an
 
 [`splunk-labs`](https://github.com/BornAgainCoder7/splunk-labs): SPL queries to detect security incidents in Windows environments
 
-[`powershell-labs`]: PowerShell scripts for visibility, auditing, and administration (in progress)
+`powershell-labs`: PowerShell scripts for visibility, auditing, and administration (in progress)
 
 My Online Presence and Work
 
