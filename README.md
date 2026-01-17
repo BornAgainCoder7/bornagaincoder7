@@ -2,7 +2,9 @@ Hello, world! My name is Christopher Bueker.
 
 I am a technical SEO, cybersecurity, and web engineering consultant, and the founder of SunPath SEO.
 
-I focus on building, testing, and validating websites using first-principles engineering, modern SEO standards, and command-line tooling. I like working close to the system, where truth is observable and measurable.
+I focus on building, testing, and validating websites using web engineering, modern SEO standards, and command-line tooling. I like working close to the system, where truth is observable and measurable.
+
+
 
 My Online Presence and Work
 
@@ -15,6 +17,8 @@ My Online Presence and Work
 [Accepted Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ABornAgainCoder7+is%3Aclosed)
 
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
+
+
 
 Highlighted Open Source Contributions
 
