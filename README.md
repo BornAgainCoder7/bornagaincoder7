@@ -1,20 +1,22 @@
 Hello, world! My name is Christopher Bueker.
 
-I am a technical SEO, cybersecurity, and web engineering consultant, and the founder of SunPath SEO.
+I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy building systems that are observable, measurable, and secure.
 
-I focus on building, testing, and validating websites using web engineering, modern SEO standards, and command-line tooling. I like working close to the system, where truth is observable and measurable.
+Cybersecurity Projects
 
+These are my most relevant repositories for blue team, detection engineering, and automation:
 
+[`splunk-labs`](https://github.com/BornAgainCoder7/splunk-labs): SPL queries to detect security incidents in Windows environments
+
+[`powershell-labs`](https://github.com/BornAgainCoder7/powershell-labs): PowerShell scripts for visibility, auditing, and administration (in progress)
 
 My Online Presence and Work
 
 [Personal Web Page (HTML/CSS from scratch)](https://bornagaincoder7.github.io)
 
-[Proof of Concept SEO & Secure Site – ChristopherBueker.com](https://www.christopherbueker.com)
+[ChristopherBueker.com](https://www.christopherbueker.com) - Proof concept, cybersecurity-informed technical SEO.
 
-[Technical SEO and Consultant Page - SunPath SEO](https://www.sunpathseo.com)
-
-[Accepted Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ABornAgainCoder7+is%3Aclosed)
+[SunPathSEO.com](https://www.sunpathseo.com) - my business page for Technical SEO and Cybersecurity Consultation
 
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
 
@@ -27,6 +29,8 @@ I contributed to the official Code Club Guide by fixing a formatting issue and h
 
 [Fix environment setup and install Tailwind CSS](https://github.com/alexinslc/depot/pull/339)  
 I improved the development environment for the `depot` project by adding setup instructions and installing Tailwind CSS for styling.
+
+[Accepted Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ABornAgainCoder7+is%3Aclosed)
 
 
 
