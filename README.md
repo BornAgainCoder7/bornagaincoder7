@@ -14,13 +14,13 @@ These are my relevant repositories for blue team, detection engineering, and aut
 
 My Online Presence and Work
 
-[Personal Web Page](https://bornagaincoder7.github.io) - my developers hub, including information of my technical education and training. 
+[Personal Web Page](https://bornagaincoder7.github.io) - my developers hub, including information about my technical education and training. 
 
 [Technical Education and Training](https://bornagaincoder7.github.io/degree) - Computer Science and Web Technologies, includes curriculum and reading list.
 
 [ChristopherBueker.com](https://www.christopherbueker.com) - Proof concept, cybersecurity-informed technical SEO.
 
-[SunPathSEO.com](https://www.sunpathseo.com) - my website for Technical SEO and Cybersecurity Consulting page
+[SunPathSEO.com](https://www.sunpathseo.com) - my website for my Technical SEO and Cybersecurity Consulting services
 
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
 
