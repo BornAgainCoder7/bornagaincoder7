@@ -6,7 +6,7 @@ Cybersecurity Projects
 
 These are my most relevant repositories for blue team, detection engineering, and automation:
 
-['bash-scripts'](https://github.com/bornagaincoder7/bash-scripts): Bash scripts related to cybersecurity and IT. 
+[`bash-scripts`](https://github.com/bornagaincoder7/bash-scripts): Bash scripts related to cybersecurity and IT. 
 
 [`splunk-labs`](https://github.com/BornAgainCoder7/splunk-labs): SPL queries to detect security incidents in Windows environments
 
