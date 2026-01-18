@@ -1,12 +1,12 @@
-Hello, world! My name is Christopher Bueker.
+Hello, world! My name is Christopher Bueker. My wife and I live in Milford, Ohio, which is near Cincinnati. 
 
 I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy building systems that are observable, measurable, and secure.
 
 Cybersecurity Projects
 
-These are my most relevant repositories for blue team, detection engineering, and automation:
+These are my relevant repositories for blue team, detection engineering, and automation:
 
-[`bash-scripts`](https://github.com/bornagaincoder7/bash-scripts): Bash scripts related to cybersecurity and IT. 
+[`bash-scripts`](https://github.com/bornagaincoder7/bash-scripts): Bash scripts related to cybersecurity, IT, and technical SEO. 
 
 [`splunk-labs`](https://github.com/BornAgainCoder7/splunk-labs): SPL queries to detect security incidents in Windows environments
 
@@ -14,15 +14,15 @@ These are my most relevant repositories for blue team, detection engineering, an
 
 My Online Presence and Work
 
-[Personal Web Page (HTML/CSS from scratch)](https://bornagaincoder7.github.io)
+[Personal Web Page](https://bornagaincoder7.github.io) - my developers hub, including information of my technical education and training. 
+
+[Technical Education and Training](https://bornagaincoder7.github.io/degree) - Computer Science and Web Technologies, includes curriculum and reading list.
 
 [ChristopherBueker.com](https://www.christopherbueker.com) - Proof concept, cybersecurity-informed technical SEO.
 
-[SunPathSEO.com](https://www.sunpathseo.com) - my business page for Technical SEO and Cybersecurity Consultation
+[SunPathSEO.com](https://www.sunpathseo.com) - my website for Technical SEO and Cybersecurity Consulting page
 
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
-
-
 
 Highlighted Open Source Contributions
 
