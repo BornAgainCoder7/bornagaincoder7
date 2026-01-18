@@ -1,4 +1,4 @@
-Hello, world! My name is *Christopher Bueker*. My wife and I live in Milford, Ohio, which is near Cincinnati. 
+Hello, world! My name is **Christopher Bueker**. My wife and I live in Milford, Ohio, which is near Cincinnati. 
 
 I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy building systems that are observable, measurable, and secure.
 
