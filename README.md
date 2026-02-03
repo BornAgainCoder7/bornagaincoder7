@@ -6,6 +6,8 @@ Cybersecurity and IT Repositories
 
 These are my relevant repositories for blue team, detection engineering, and automation:
 
+[`bash-toolkit`](https://github.com/bornagaincoder7/bash-toolkit): Bash commands that I use regularlly for sysadmin, cybersecurity, and technical SEO. 
+
 [`bash-scripts`](https://github.com/bornagaincoder7/bash-scripts): Bash scripts related to cybersecurity, IT, and technical SEO. 
 
 [`splunk-labs`](https://github.com/BornAgainCoder7/splunk-labs): SPL queries to detect security incidents in Windows environments
