@@ -2,9 +2,7 @@ Hello, world! My name is **Christopher Bueker**. My wife and I live in Milford, 
 
 I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy building systems that are observable, measurable, and secure.
 
-Cybersecurity and IT Repositories
-
-These are my relevant repositories for blue team, detection engineering, and automation:
+Repositories related to Information Technologies and Systems Administration
 
 [`bash-toolkit`](https://github.com/bornagaincoder7/bash-toolkit): Bash commands that I use regularlly for sysadmin, cybersecurity, and technical SEO. 
 
