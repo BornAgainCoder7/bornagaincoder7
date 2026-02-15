@@ -4,6 +4,8 @@ I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy bu
 
 Repositories related to Information Technologies and Systems Administration
 
+[`ubuntu-suspend-debugging`](https://github.com/BornAgainCoder7/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
+
 [`bash-toolkit`](https://github.com/bornagaincoder7/bash-toolkit): Bash commands that I use regularlly for sysadmin, cybersecurity, and technical SEO. 
 
 [`bash-scripts`](https://github.com/bornagaincoder7/bash-scripts): Bash scripts related to cybersecurity, IT, and technical SEO. 
