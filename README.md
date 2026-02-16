@@ -4,6 +4,8 @@ I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy bu
 
 Repositories related to Information Technologies, Systems Administration, Cybersecurity, and Technical SEO. 
 
+[`wordpress-performance-engineering`](https://github.com/BornAgainCoder7/wordpress-performance-engineering): A structured performance optimization case study focused on improving Core Web Vitals, reducing Total Blocking Time (TBT), and engineering scalable WordPress performance architecture.
+
 [`ubuntu-suspend-debugging`](https://github.com/BornAgainCoder7/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
 [`bash-toolkit`](https://github.com/bornagaincoder7/bash-toolkit): Bash commands that I use regularlly for sysadmin, cybersecurity, and technical SEO. 
