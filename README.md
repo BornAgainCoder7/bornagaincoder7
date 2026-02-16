@@ -2,7 +2,7 @@ Hello, world! My name is **Christopher Bueker**. My wife and I live in Milford, 
 
 I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy building systems that are observable, measurable, and secure.
 
-Repositories related to Information Technologies and Systems Administration
+Repositories related to Information Technologies, Systems Administration, Cybersecurity, and Technical SEO. 
 
 [`ubuntu-suspend-debugging`](https://github.com/BornAgainCoder7/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
