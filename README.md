@@ -1,8 +1,10 @@
 Hello, world! My name is **Christopher Bueker**. My wife and I live in Milford, Ohio, which is near Cincinnati. 
 
-I’m a IT support technician, security-informed technical SEO, and web engineer. I enjoy building systems that are observable, measurable, and secure.
+I’m an IT support technician, security-informed technical SEO, and web engineer. I enjoy building systems that are observable, measurable, and secure.
 
-Repositories related to Information Technologies, sysadmin, and technical SEO. 
+Repositories related to Help Desk, Information Technologies, and technical SEO. 
+
+[`windows-helpdesk-frameworks`](https://github.com/BornAgainCoder7/windows-helpdesk-frameworks): Structured troubleshooting and security frameworks for Windows Tier 1 Help Desk environments. Documents the STABLER troubleshooting model, UNAS issue categorization, TINGEDE network diagnostics, and LAPNR security awareness approach used in real-world support scenarios.
 
 [`wordpress-performance-engineering`](https://github.com/BornAgainCoder7/wordpress-performance-engineering): A structured performance optimization case study focused on improving Core Web Vitals, reducing Total Blocking Time (TBT), and engineering scalable WordPress performance architecture.
 
