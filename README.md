@@ -1,8 +1,8 @@
 Hello, world! My name is **Christopher Bueker**. My wife and I live in Milford, Ohio, which is near Cincinnati. 
 
-I’m a technical SEO, cybersecurity, and web engineering consultant. I enjoy building systems that are observable, measurable, and secure.
+I’m a IT support technician, security-informed technical SEO, and web engineer. I enjoy building systems that are observable, measurable, and secure.
 
-Repositories related to Information Technologies, Systems Administration, Cybersecurity, and Technical SEO. 
+Repositories related to Information Technologies, sysadmin, and technical SEO. 
 
 [`wordpress-performance-engineering`](https://github.com/BornAgainCoder7/wordpress-performance-engineering): A structured performance optimization case study focused on improving Core Web Vitals, reducing Total Blocking Time (TBT), and engineering scalable WordPress performance architecture.
 
