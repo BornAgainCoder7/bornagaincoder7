@@ -4,7 +4,7 @@ I’m an IT support technician, security-informed technical SEO, and web enginee
 
 Repositories related to Help Desk, Information Technologies, and technical SEO. 
 
-[`windows-helpdesk-frameworks`](https://github.com/BornAgainCoder7/windows-helpdesk-frameworks): Structured troubleshooting and security frameworks for Windows Tier 1 Help Desk environments. Documents the STABLER troubleshooting model, UNAS issue categorization, TINGEDE network diagnostics, and LAPNR security awareness approach used in real-world support scenarios.
+[`windows-helpdesk-frameworks`](https://github.com/BornAgainCoder7/windows-helpdesk-frameworks): Structured troubleshooting and security frameworks for Tier 1 Help Desk roles. Documents the STABLER troubleshooting model, UNAS issue categorization, TINGEDE network diagnostics, and LAPNR security awareness model.
 
 [`wordpress-performance-engineering`](https://github.com/BornAgainCoder7/wordpress-performance-engineering): A structured performance optimization case study focused on improving Core Web Vitals, reducing Total Blocking Time (TBT), and engineering scalable WordPress performance architecture.
 
