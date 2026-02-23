@@ -22,7 +22,7 @@ My Online Presence and Work
 
 [Personal Web Page](https://bornagaincoder7.github.io) - my developers hub, including information about my technical education and training. 
 
-[Technical Education and Training](https://bornagaincoder7.github.io/degree) - Computer Science and Web Technologies, includes curriculum and reading list.
+[Technical Education and Training](https://bornagaincoder7.github.io/degree) - Computer Science and Web Technologies studies, includes curriculum and reading list.
 
 [ChristopherBueker.com](https://www.christopherbueker.com) - Proof concept, cybersecurity-informed technical SEO.
 
